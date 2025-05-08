@@ -16,6 +16,24 @@
       "message": "Why? It\u0027s set in sm8250-common",
       "revId": "6ec675ac9220e571a3d506f4931d188b7860de87",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "ff440df9_b9e44427",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2025-05-08T22:07:17Z",
+      "side": 1,
+      "message": "Because at some point I thought it was sm8350.",
+      "parentUuid": "a4c0f06b_5e6fbab6",
+      "revId": "6ec675ac9220e571a3d506f4931d188b7860de87",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }

@@ -68,7 +68,6 @@ odm/etc/sensor/config/kona_qrd_lsm6dso.json
 odm/etc/sensor/config/kona_qrd_mmc5603nj.json
 odm/etc/sensor/config/kona_qrd_mn29005.json
 odm/etc/sensor/config/kona_qrd_sx933x_0.json
-odm/etc/sensor/config/kona_qrd_tcs3408_rear.json
 odm/etc/sensor/sensor_config.json
 
 # WiFi

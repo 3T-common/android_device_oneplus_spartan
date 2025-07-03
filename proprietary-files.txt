@@ -17,7 +17,7 @@ odm/firmware/tfa98xx.cnt
 odm/etc/camera/ashdr/ncf_pack.ncf
 odm/etc/camera/darksight/darksight_main.bin
 odm/etc/camera/darksight/darksight_ultrawide.bin
-odm/lib64/camera/com.qti.sensor.hi846.soAdd commentMore actions
+odm/lib64/camera/com.qti.sensor.hi846.so
 odm/lib64/camera/com.qti.sensor.imx471.so
 odm/lib64/camera/com.qti.sensor.ov02b.so
 odm/lib64/camera/com.qti.sensor.ov64b.so
